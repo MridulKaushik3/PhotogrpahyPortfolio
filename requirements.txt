@@ -1,0 +1,4 @@
+Django>=4.2,<5.0
+pillow>=10.0.0
+gunicorn>=21.2.0    # for deployment (Render/Heroku/any WSGI server)
+whitenoise>=6.5.0
